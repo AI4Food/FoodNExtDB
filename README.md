@@ -62,9 +62,7 @@ As illustrated in the example below, three food products are detected in a given
 - `p2` was labeled differently by two experts.
 - All experts identified `p3` as *"fruits"*.
 
-ChatGPT correctly predicted the label for `p1`, matched one of the expert labels for `p2`, and also predicted the correct label for `p3`.
-
-The resulting EWR of **77.76%** reflects how well ChatGPT aligns with expert annotations, taking into account the variability among nutritionists.
+ChatGPT correctly predicted the label for `p1`, matched one of the expert labels for `p2`, and also predicted the correct label for `p3`. The resulting EWR of **77.76%** reflects how well ChatGPT aligns with expert annotations, taking into account the variability among nutritionists.
 
 ![EWR-evaluation](img/evaluation.png)
 
