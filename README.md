@@ -8,7 +8,7 @@
 📌 **The FoodNExTDB dataset will be made publicly available soon.**  
 Stay tuned for the release and citation guidelines.
 
-**The Database will only be used for research purposes and will not be used nor included in commercial applications in any form (e.g., original files, encrypted files, files containing extracted features, etc).**
+**The FoodNExTDB database will only be used for research purposes and will not be used nor included in commercial applications in any form (e.g., original files, encrypted files, files containing extracted features, etc).**
 
 <!--**The Database will only be used for research purposes and will not be used nor included in commercial applications in any form (e.g., original files, encrypted files, files containing extracted features, etc).**-->
 
@@ -78,7 +78,7 @@ Labels for each image are stored in a separate file named `A4F_XXXXX_labeled_dat
 
 ## 📄 Citation
 
-**Any work made public, whatever the form, based directly or indirectly on any part of the Database will include the following references:**
+**Any work made public, whatever the form, based directly or indirectly on any part of the FoodNExTDB database will include the following references:**
 
 - S. Romero-Tapiador,  R. Tolosana, B. Lacruz-Pleguezuelos, L. J. Marcos-Zambrano, Guadalupe X. Bazán, I. Espinosa-Salinas, J. Fierrez, J. Ortega-Garcia,  E. Carrillo de Santa Pau, and A. Morales., “Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition”, In Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2025.
 
