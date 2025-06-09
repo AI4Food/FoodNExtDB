@@ -5,13 +5,9 @@
 
 ## 🗂️ Dataset Access
 
-📌 **The FoodNExTDB dataset will be made publicly available soon.**  
-Stay tuned for the release and citation guidelines.
+📌 **The FoodNExTDB dataset can be accessed at the following link: [https://bidalab.eps.uam.es/static/AI4FoodDB/FoodNExtDB.zip](https://bidalab.eps.uam.es/static/AI4FoodDB/FoodNExtDB.zip)**
 
 **The FoodNExTDB database will only be used for research purposes and will not be used nor included in commercial applications in any form (e.g., original files, encrypted files, files containing extracted features, etc).**
-
-<!--**The Database will only be used for research purposes and will not be used nor included in commercial applications in any form (e.g., original files, encrypted files, files containing extracted features, etc).**-->
-
 
 ---
 
